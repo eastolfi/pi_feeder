@@ -9,6 +9,10 @@
   "author": "Eduardo Astolfi <eastolfi91@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "pigpio": "^0.5.1",
+    "raspi": "^4.0.0",
+    "raspi-gpio": "^4.0.2",
+    "raspi-soft-pwm": "^3.0.0",
     "rpi-gpio": "^0.7.0"
   }
 }
